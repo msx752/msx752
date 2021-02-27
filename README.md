@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![msx752's GitHub stats](https://github-readme-stats.vercel.app/api?username=msx752&count_private=true&include_all_commits=true&hide=contribs&show_icons=true)](https://github.com/msx752)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msx752&exclude_repo=msx752.github.io,free-for-dev&layout=compact&langs_count=8)](https://github.com/msx752)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=msx752&" alt="msx752" /></p> 
+[![msx752's GitHub stats](https://github-readme-stats.vercel.app/api?username=msx752&count_private=true&include_all_commits=true&hide=contribs&show_icons=true&theme=dark)](https://github.com/msx752)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msx752&exclude_repo=msx752.github.io,free-for-dev&layout=compact&langs_count=8&theme=dark)](https://github.com/msx752)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=msx752&theme=dark" alt="msx752" /></p> 
