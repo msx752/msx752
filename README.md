@@ -1,19 +1,18 @@
-### Hi there 👋
+## Hi there 👋  
+**Builder · Problem Solver**
 
-<!--
-**msx752/msx752** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build scalable systems with a focus on speed, reliability, and impact.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![msx752's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=msx752&include_all_commits=true&show_icons=true&theme=dark&hide_border=true&hide=javascript,html)](https://github.com/msx752)
+### 👁 Profile Views
+![Profile views](https://komarev.com/ghpvc/?username=msx752&label=Profile%20views&color=0e75b6&style=flat)
+
+---
+
+### 📊 GitHub Activity
+![GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=msx752&include_all_commits=true&show_icons=true&theme=dark&hide_border=true&hide=javascript,html)
+
 ![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=msx752&theme=dark&hide_border=true)
 
+---
