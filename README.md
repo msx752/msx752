@@ -5,7 +5,6 @@ I build scalable systems with a focus on speed, reliability, and impact.
 
 ---
 
-### 👁 Profile Views
 ![Profile views](https://komarev.com/ghpvc/?username=msx752&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
